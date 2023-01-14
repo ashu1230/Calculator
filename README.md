@@ -9,7 +9,7 @@
   
   <li>Addition</li>
   <li>Multiplication</li>
-  <li>, subtraction </li>
+  <li>Subtraction </li>
 </ol>
 
 </h4>
