@@ -8,6 +8,7 @@
 <ol>
   
   <li>Addition</li>
+  <li>, multiplication</li>
 </ol>
 
 </h4>
