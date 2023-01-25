@@ -6,7 +6,7 @@
   <li>Addition</li>
   <li>Multiplication</li>
   <li>Subtraction</li>
-  
+ 
   <li>division</li>
   
 </ol>
