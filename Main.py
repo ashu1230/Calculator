@@ -11,7 +11,6 @@ def backspace(entry):
 def clear(entry):
     entry.delete(0, END)
 
-
 def calc(entry):
     input_info = entry.get()
     try:
