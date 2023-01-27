@@ -37,7 +37,6 @@ def cal():
     entry = Entry(root, justify="right", font=entry_font)
     entry.grid(row=0, column=0, columnspan=4,
                sticky=N + W + S + E, padx=5, pady=5)
-
     cal_button_bg = '#FF6600'
     num_button_bg = '#4B4B4B'
     other_button_bg = '#DDDDDD'
