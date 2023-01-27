@@ -9,7 +9,6 @@ def backspace(entry):
     input_len = len(entry.get())
     entry.delete(input_len - 1)
 
-
 def clear(entry):
     entry.delete(0, END)
 
