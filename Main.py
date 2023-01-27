@@ -48,7 +48,6 @@ def cal():
     button7 = num_button(text='7', bg=num_button_bg,
                          command=lambda: get_input(entry, '7'))
     button7.grid(row=2, column=0, pady=5)
-
     button8 = num_button(text='8', command=lambda: get_input(entry, '8'))
     button8.grid(row=2, column=1, pady=5)
 
