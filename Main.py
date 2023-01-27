@@ -28,7 +28,6 @@ def popupmsg():
     label.pack(side="top", fill="x", pady=10)
     B1 = Button(popup, text="Okay", bg="#DDDDDD", command=popup.destroy)
     B1.pack()
-
 def cal():
     root = Tk()
     root.title("Calc")
