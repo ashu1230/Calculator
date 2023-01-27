@@ -4,7 +4,6 @@ from tkinter import font
 from tkinter import Label
 from functools import partial
 
-
 def get_input(entry, argu):
     entry.insert(END, argu)
 
