@@ -41,7 +41,6 @@ def cal():
     other_button_bg = '#DDDDDD'
     text_fg = '#FFFFFF'
     button_active_bg = '#C0C0C0'
-
     num_button = partial(Button, root, fg=text_fg, bg=num_button_bg,
                          padx=10, pady=3, activebackground=button_active_bg)
     cal_button = partial(Button, root, fg=text_fg, bg=cal_button_bg,
