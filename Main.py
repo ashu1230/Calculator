@@ -19,8 +19,7 @@ def calc(entry):
         output = ""
     clear(entry)
     entry.insert(END, output)
-
-
+    
 def popupmsg():
     popup = Tk()
     popup.resizable(0, 0)
