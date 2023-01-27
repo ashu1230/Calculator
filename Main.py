@@ -10,7 +10,6 @@ def backspace(entry):
     entry.delete(input_len - 1)
 def clear(entry):
     entry.delete(0, END)
-
 def calc(entry):
     input_info = entry.get()
     try:
