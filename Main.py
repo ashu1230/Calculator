@@ -45,7 +45,6 @@ def cal():
                          padx=10, pady=3, activebackground=button_active_bg)
     cal_button = partial(Button, root, fg=text_fg, bg=cal_button_bg,
                          padx=10, pady=3, activebackground=button_active_bg)
-
     button7 = num_button(text='7', bg=num_button_bg,
                          command=lambda: get_input(entry, '7'))
     button7.grid(row=2, column=0, pady=5)
