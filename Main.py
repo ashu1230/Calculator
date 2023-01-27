@@ -32,7 +32,6 @@ def cal():
     root = Tk()
     root.title("Calc")
     root.resizable(0, 0)
-
     entry_font = font.Font(size=15)
     entry = Entry(root, justify="right", font=entry_font)
     entry.grid(row=0, column=0, columnspan=4,
